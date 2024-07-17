@@ -4,4 +4,6 @@ Test Branch line edit
 
 Test Branch line edit 2
 
+
 Main Branch line added
+Conflict behaviour v2
